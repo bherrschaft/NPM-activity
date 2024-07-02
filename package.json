@@ -1,15 +1,11 @@
 {
-  "name": "npm-activity",
+  "name": "your-project-name",
   "version": "1.0.0",
+  "description": "A simple project to use moment.js",
   "main": "index.js",
- "scripts": {
-  "start": "node index.js"
-}
-
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": "",
+  "scripts": {
+    "start": "node index.js"
+  },
   "dependencies": {
     "moment": "^2.30.1"
   }
